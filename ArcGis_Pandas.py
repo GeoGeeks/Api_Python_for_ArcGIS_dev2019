@@ -9,7 +9,7 @@ import matplotlib as plt
 import numpy as np
 
 #conectar a cuenta arcgis online (No es obligatorio)
-gis=GIS("https://www.arcgis.com","dparra_geek","Esrico123*")
+gis=GIS("https://www.arcgis.com","dparra_geek")
 
 
 # Importa contenido de arcgis online con el id
